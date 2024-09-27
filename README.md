@@ -11,4 +11,5 @@ A new multimodal human action recognition model is proposed, which uses MoVinet 
 [Fig4.pdf](https://github.com/user-attachments/files/17165299/Fig4.pdf)
 # Start
   pip install -r requirements.txt
+  
   python train_eval.py
